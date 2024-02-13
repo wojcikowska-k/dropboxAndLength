@@ -1,0 +1,27 @@
+{
+  "name": "stackblitz-starters-frqcbm",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "@opentelemetry/api": "1.7.0",
+    "@types/react": "18.2.37",
+    "@types/react-dom": "18.2.15",
+    "next": "14.0.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-dropzone": "14.2.3",
+    "sass": "1.69.5",
+    "tailwind": "4.0.0",
+    "tailwindcss": "3.3.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
